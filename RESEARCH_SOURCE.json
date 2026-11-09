@@ -1,0 +1,7 @@
+{
+  "source": "GLZ_166_Rerun_ROI.py",
+  "sha256": "a184772ec064eb92d2ca6c77e8691c1bbde1b1f9b7480e3cf0ac95359512a814",
+  "web_baseline_commit": "714795a586a0d87d412db9d8bc44b05aa596bfcd",
+  "interface_sha256": "cf92de80cc9c9343abf4a3b80baa227089ee25243ec7c8cfdd4ce23aea6e38b3",
+  "scope": "RPI, Rigid then SyN default registration, genericLabel core and atlas interpolation, positive-mask voxel counting. BN applies the same quantification rule; source has AAL/JHU only."
+}
